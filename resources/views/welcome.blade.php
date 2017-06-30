@@ -12,4 +12,4 @@
 
 @section('article_count'){{$article_count}}@endsection
 
-@section('picture'){{$feature_picture}}@endsection
+@section('picture')PICTURE SECTION WILL BE OUT SOON!!@endsection

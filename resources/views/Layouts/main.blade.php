@@ -27,7 +27,8 @@
                 Featured Picture on @yield('language') Wikipedia:
             </p>
             <div class="sub-content">
-                <img src="https://@yield('picture')">
+                <!-- <img src="https://"> -->
+                @yield('picture')
             </div>
         </div>
     </div>
